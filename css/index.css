@@ -91,7 +91,7 @@ p {
 }
 
 .introduction {
-  background-image: url("/images/back.jpg");
+  background-image: url("images/back.jpg");
   background-position: top;
   background-repeat: none;
   background-size: cover;
@@ -167,7 +167,7 @@ p {
 
 .testimonial-section {
   padding: 100px 0px;
-  background: url(/images/fixed.jpg);
+  background: url(images/fixed.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
