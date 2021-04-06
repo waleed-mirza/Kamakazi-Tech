@@ -167,7 +167,7 @@ p {
 
 .testimonial-section {
   padding: 100px 0px;
-  background: url(images/fixed.jpg);
+  background: url("../images/fixed.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
