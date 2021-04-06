@@ -91,7 +91,7 @@ p {
 }
 
 .introduction {
-  background-image: url("images/back.jpg");
+  background-image: url("../images/back.jpg");
   background-position: top;
   background-repeat: none;
   background-size: cover;
